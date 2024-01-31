@@ -7,7 +7,7 @@
 
 <sup>(Segurar espaço e mover o mouse dentro da tela muda largura e altura da janela.)</sup>
 
-### janelaWH.py:
+### janelaXY.py:
 ![janelaXY.py](https://media.giphy.com/media/0MUFiRUdZCFjs5dAiH/giphy.gif)
 
 <sup>(Segurar espaço e mover o mouse dentro da tela muda X e Y da janela.)</sup>
